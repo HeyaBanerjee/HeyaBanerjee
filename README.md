@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **CSS,Python,Data Science,Machine Learning**
 
-- 💬 Ask me about **C,Python**
+- 💬 Ask me about **C,C++,Python**
 
 - 📫 How to reach me **banerjeeheya@gmail.com,heyabanerjee4321@gmail.com**
 
