@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Heya Banerjee</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am  passionate about Data Science and Machine Learning. I am currently exploring Data Science, Machine Learning, Agentic AI.  </h3>
 
-- 🌱 I’m currently learning **Tailwind CSS,JavaScript,Python**
+- 🌱 I’m currently learning **CSS,Python,Data Science,Machine Learning**
 
-- 💬 Ask me about **C,C++**
+- 💬 Ask me about **C,Python**
 
-- 📫 How to reach me **banerjeeheya@gmail.com**
+- 📫 How to reach me **banerjeeheya@gmail.com,heyabanerjee4321@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
