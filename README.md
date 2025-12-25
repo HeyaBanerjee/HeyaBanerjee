@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Heya Banerjee</h1>
-<h3 align="center">I am  passionate about Data Science and Machine Learning. I am currently exploring Data Science, Machine Learning, Agentic AI.  </h3>
+<h3 align="center">I am  passionate about Data Analytics, Data Science and Machine Learning. I am currently exploring Data Analytics,Data Science, Machine Learning, Agentic AI.  </h3>
 
-- 🌱 I’m currently learning **Python,Data Science,Machine Learning**
+- 🌱 I’m currently learning **Python,Data Analysis, Data Science,Machine Learning**.
 
-- 💬 Ask me about **C++,Python**
+- 💬 Ask me about **C++,Python,MySQL,PostgreSQL,Power BI**.
 
 - 📫 How to reach me **banerjeeheya@gmail.com,heyabanerjee4321@gmail.com**
 
